@@ -7,4 +7,6 @@ Simple height map viewer/editor tool.
 - Interactive model calculation
 - Simple editing brushes
 ## How to build
-Software comes with Visual Studio 2013 project and utilizes OpenTK library. For building the application, please link OpenTK and OpenTK.GLControl to the project (you can use NuGet in Visual Studio).
+Software comes with Visual Studio 2013 project and utilizes OpenTK library. For building the application, OpenTK and OpenTK.GLControl must be linked to the project (you can use NuGet in Visual Studio to download packages).
+## Credits
+[LockBitmap.cs](https://gist.github.com/tkouba/0b7f8496f1aadcfee2db) by [tkouba](https://gist.github.com/tkouba)
